@@ -15,6 +15,6 @@ To solve the above mentioned challenges, we propose a principled effort to inves
 
 3. PGRR: Mobile Access Record Resolution on Large-Scale Identifier-Linkage Graphs (KDD-18)
 
-4. PRRE: Personalized Relation Ranking Embedding for A ributed Network (CIKM-18) 
+4. PRRE: Personalized Relation Ranking Embedding for Attributed Network (CIKM-18) 
 
 
